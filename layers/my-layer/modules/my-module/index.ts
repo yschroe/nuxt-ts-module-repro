@@ -2,7 +2,7 @@ import {
     addRouteMiddleware,
     createResolver,
     defineNuxtModule,
-} from "@nuxt/kit";
+} from "nuxt/kit";
 
 export default defineNuxtModule({
     meta: {
